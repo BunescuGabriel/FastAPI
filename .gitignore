@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.env
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+__pycache__/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Ignore FastAPI generated files if any
+static
+alembic.ini
+alembic
+.idea
+test.db
+venv
